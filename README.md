@@ -1,1 +1,1 @@
-# healthcare-provider-fraud-detection-dashboard
+# customer-churn-dashboard
