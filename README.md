@@ -46,8 +46,8 @@ Key Visuals:
 Key Findings:
  - The overall attrition rate in the dataset was 16.1%.
  - Attrited customers had a 34.6% lower average transaction count and 45.2% lower average utilization ratio than existing customers — indicating credit utilization is the stronger early warning signal.
- - The churn risk score meaningfully separated the two groups: attrited customers scored 0.712 on average vs. 0.459 for existing customers.
- - The highest-risk active customer segment was concentrated in the 80K to 120K and above income category.
+ - The churn risk score meaningfully separated the two groups: attrited customers scored 0.694 on average vs. 0.463 for existing customers.
+ - The highest-risk active customer segment was concentrated in the $120K and above income category.
 
 Business Recommendation: The retention team should prioritize outreach to active customers scoring in the top percentage of churn risk score, particularly those showing a recent drop in transaction count, since this was the clearest early signal in the data.
 
